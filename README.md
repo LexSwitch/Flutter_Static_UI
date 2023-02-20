@@ -4,13 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A static shop UI made using Flutter.
+Screenshots below:
 
-A few resources to get you started if this is your first Flutter project:
+<p float="left">
+<img src="screenshots/screenshot1.png" height=500px>
+<img src="https://i.postimg.cc/B6B7hYZC/Screenshot-1643073324.png" height=500px>
+<img src="https://i.postimg.cc/yx6Q2mkC/Screenshot-1643073328.png" height=500px>
+<img src="https://i.postimg.cc/c4HkmBpQ/Screenshot-1643073366.png" height=500px>
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
